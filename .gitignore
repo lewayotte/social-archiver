@@ -1,0 +1,5 @@
+.env
+/db
+/twitter-data
+/vendor
+tweets.json
